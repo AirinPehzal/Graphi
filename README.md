@@ -1,6 +1,6 @@
 # Graphi
-| Tables        | Are           | Cool  |
+| два        | еее           | кккк  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| фвфф      | фв | фв |
+| вф      | cыа      |   ыа |
+| но | ноонон      |    впв |
